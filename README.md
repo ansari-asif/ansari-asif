@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ansari-asif
-- 👀 I’m interested in to develop new things with new ideas.
+- 👀 I’m interested to develop new things with new ideas.
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on react js projects
 - 📫 feel free to email me : asifraiganj@gmail.com
