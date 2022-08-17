@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ansari-asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansari-asif" height="30" width="40" /></a>
-<a href="https://fb.com/ansari aasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ansari aasif" height="30" width="40" /></a>
+<a href="https://www.facebook.com/devansariaasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ansari aasif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
