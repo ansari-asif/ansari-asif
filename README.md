@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Asif Ansari</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from Delhi,India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansari-asif&label=Profile%20views&color=0e75b6&style=flat" alt="ansari-asif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansari-asif" alt="ansari-asif" /></a> </p>
 
-- 🔭 I’m currently working on **process automation**
+- 🔭 I’m currently working on **iasscore**
 
 - 🌱 I’m currently learning **react js**
 
 - 👯 I’m looking to collaborate on **react js or php projects**
 
-- 🤝 I’m looking for help with **react js and php**
+- 🤝 I’m looking for help with **react js and php projects**
 
-- 💬 Ask me about **php, codeigniter**
+- 💬 Ask me about **PHP, Codeigniter, and Front End Developement**
 
 - 📫 How to reach me **asifraiganj@gmail.com**
 
