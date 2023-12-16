@@ -10,7 +10,7 @@ Passionate and creative Full Stack Developer with 2.5 years of experience in des
 ## 🚀 Skills
 
 - **Frontend:**
-  - HTML5, CSS3, JavaScript,TAILWIND CSS
+  - HTML5, CSS3, JavaScript,TAILWIND CSS,Web Socket
   - React.js, MUI
   - Responsive Design, Bootstrap
 
@@ -28,13 +28,29 @@ Passionate and creative Full Stack Developer with 2.5 years of experience in des
 
 ## 🛠️ Projects
 
-### [IASSCORE](https://github.com/yourusername/projectname)
+### [IASSCORE](https://iasscore.in/)
 
-Brief description of the project and its key features.
+IASSCORE is a web based LMS panel for UPSC students. Proficient in overseeing various functionalities, including course sales, test series management, video content delivery, and facilitating online classes. I have integrated payment gateway to purchase courses. I used payumoney and ccavanue in this site. Also I worked, to create an admin panel to manage all the users, courses, tests, transactions, etc.
+Skills used: HTML, CSS, BOOTSTRAP, JS, AJAX, PHP, CODEIGNITER, MYSQL.
+Site Link: https://iasscore.in/
 
-### [Another Project](https://github.com/yourusername/anotherproject)
+### [GSSCORE](https://gsscore.com/)
 
-Brief description of the project and its key features.
+This project helps students for preparation of government-related exams offering personalized testing, mentorship sessions, self-assessment tools, and customizable study planners. I worked as a full stack developer.
+Skills used: HTML, CSS, BOOTSTRAP, JS, AJAX, PHP, CODEIGNITER, MYSQL. 
+Site Link: https://gsscore.com/
+
+### [ITDA-FMS]
+
+ITDA FMS is a financial management project of UK govt. This project featuring three type of user levels (L1, L2, L3). Managed users, schemes, budgets, beneficiaries, sanction orders, vouchers, invoices, payments, and disbursements. Facilitated payments by transmitting XML data via SFTP to IFMS. I have used cronjob to send the xml data to IFMS and get the acknowledgment from IFMS.
+Skills used: REACT JS, MUI, PHP CODEIGNITER API’S, MYSQL.
+
+### [SOME MORE MINI PROJECTS :- 
+
+1. Music Player using js -- https://ansari-asif.github.io/AnsariMusicPlayer.github.io/
+2. Corona live data using api(website) -- https://ansari-asif.github.io/coronalive.github.io/
+3. https://whatsapp-clone-by-ansari.netlify.app/
+4. https://fbclonebyansari.netlify.app/
 
 ## 🌱 Currently Learning
 
