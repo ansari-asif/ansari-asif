@@ -2,10 +2,10 @@
 
 ## 👩‍💻 About Me
 
-Passionate and creative Full Stack Developer with [X] years of experience in designing and implementing innovative web applications. Adept at identifying and solving challenging problems, collaborating with cross-functional teams, and learning new technologies quickly.
+Passionate and creative Full Stack Developer with 2.5 years of experience in designing and implementing innovative web applications. Adept at identifying and solving challenging problems, collaborating with cross-functional teams, and learning new technologies quickly.
 
 - 💼 Currently working at Basix Education Pvt Ltd.
-- 📫 How to reach me: [Your Email](mailto:asifraiganj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ansari-asif/))
+- 📫 How to reach me: [Email](mailto:asifraiganj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ansari-asif/))
 
 ## 🚀 Skills
 
