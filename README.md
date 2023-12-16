@@ -21,6 +21,9 @@ Passionate and creative Full Stack Developer with 2.5 years of experience in des
 
 - **Databases:**
   - MongoDB, MySQL,
+    
+- **Server Side:**
+  - Basic AWS Like nginx,apache,integrate ssl (certbot)  
 
 - **Tools & Version Control:**
   - Git, GitHub
@@ -45,7 +48,7 @@ Site Link: https://gsscore.com/
 ITDA FMS is a financial management project of UK govt. This project featuring three type of user levels (L1, L2, L3). Managed users, schemes, budgets, beneficiaries, sanction orders, vouchers, invoices, payments, and disbursements. Facilitated payments by transmitting XML data via SFTP to IFMS. I have used cronjob to send the xml data to IFMS and get the acknowledgment from IFMS.
 Skills used: REACT JS, MUI, PHP CODEIGNITER API’S, MYSQL.
 
-### [SOME MORE MINI PROJECTS :- 
+### SOME MORE MINI PROJECTS :- 
 
 1. Music Player using js -- https://ansari-asif.github.io/AnsariMusicPlayer.github.io/
 2. Corona live data using api(website) -- https://ansari-asif.github.io/coronalive.github.io/
