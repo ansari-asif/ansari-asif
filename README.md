@@ -1,31 +1,26 @@
-# Your Name
+# Asif Ansari
 
 ## 👩‍💻 About Me
 
 Passionate and creative Full Stack Developer with [X] years of experience in designing and implementing innovative web applications. Adept at identifying and solving challenging problems, collaborating with cross-functional teams, and learning new technologies quickly.
 
-- 💼 Currently working at [Current Company/Project].
-- 🌐 Portfolio: [Your Portfolio Website](https://www.yourportfolio.com)
-- 📫 How to reach me: [Your Email](mailto:you@example.com) | [LinkedIn](https://www.linkedin.com/in/yourusername/) | [Twitter](https://twitter.com/yourtwitterhandle)
+- 💼 Currently working at Basix Education Pvt Ltd.
+- 📫 How to reach me: [Your Email](mailto:asifraiganj@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ansari-asif/))
 
 ## 🚀 Skills
 
 - **Frontend:**
-  - HTML5, CSS3, JavaScript
-  - React.js, Vue.js
+  - HTML5, CSS3, JavaScript,TAILWIND CSS
+  - React.js, MUI
   - Responsive Design, Bootstrap
 
 - **Backend:**
-  - Node.js, Express.js
+  - PHP, CODEIGNITER
   - Python, Django
-  - RESTful APIs, GraphQL
+  - RESTful APIs,
 
 - **Databases:**
-  - MongoDB, MySQL, PostgreSQL
-
-- **DevOps:**
-  - Docker, Kubernetes
-  - CI/CD, Jenkins
+  - MongoDB, MySQL,
 
 - **Tools & Version Control:**
   - Git, GitHub
@@ -33,7 +28,7 @@ Passionate and creative Full Stack Developer with [X] years of experience in des
 
 ## 🛠️ Projects
 
-### [Project Name](https://github.com/yourusername/projectname)
+### [IASSCORE](https://github.com/yourusername/projectname)
 
 Brief description of the project and its key features.
 
@@ -43,13 +38,12 @@ Brief description of the project and its key features.
 
 ## 🌱 Currently Learning
 
-- [Technology/Framework/Tool you are currently learning]
+- Django Channel and CI/CD
 
 ## 💬 Let's Connect!
 
 I'm always open to interesting conversations and collaboration. Feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourusername/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2)](https://twitter.com/yourtwitterhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://www.yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ansari-asif/)
+
 
