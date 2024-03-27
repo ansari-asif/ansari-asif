@@ -17,6 +17,7 @@ Passionate and creative Full Stack Developer with 2.5 years of experience in des
 - **Backend:**
   - PHP, CODEIGNITER
   - Python, Django
+  - Node Js,
   - RESTful APIs,
 
 - **Databases:**
@@ -43,6 +44,12 @@ This project helps students for preparation of government-related exams offering
 Skills used: HTML, CSS, BOOTSTRAP, JS, AJAX, PHP, CODEIGNITER, MYSQL. 
 Site Link: https://gsscore.com/
 
+### [GSSCORE-COMMUNITY](https://community.gsscore.com/)
+
+Our platform connects students with mentors and peers for support and learning. Users can create threads for advice and engage in discussions. Mentors post activities like PDFs, articles, or videos for learning. Users interact by liking, commenting, and sharing activities, fostering community engagement and knowledge sharing.
+Skills used: REACT, MUI, NODEJS, MONGODB, SOCKET.	  
+Site Link: https://community.gsscore.com/
+
 ### [ITDA-FMS](#)
 
 ITDA FMS is a financial management project of UK govt. This project featuring three type of user levels (L1, L2, L3). Managed users, schemes, budgets, beneficiaries, sanction orders, vouchers, invoices, payments, and disbursements. Facilitated payments by transmitting XML data via SFTP to IFMS. I have used cronjob to send the xml data to IFMS and get the acknowledgment from IFMS.
@@ -58,6 +65,7 @@ Skills used: REACT JS, MUI, PHP CODEIGNITER API’S, MYSQL.
 ## 🌱 Currently Learning
 
 - Django Channel and CI/CD
+- LARAVEL
 
 ## 💬 Let's Connect!
 
